@@ -1,0 +1,52 @@
+{
+  "boat_1.jpeg": {
+    "class": "n03662601",
+    "description": "lifeboat",
+    "index": 0
+  },
+  "bug_1.jpeg": {
+    "class": "n02165456",
+    "description": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+    "index": 1
+  },
+  "bus_1.jpeg": {
+    "class": "n04146614",
+    "description": "school bus",
+    "index": 4
+  },
+  "car_1.jpeg": {
+    "class": "n04285008",
+    "description": "sports car, sport car",
+    "index": 9
+  },
+  "espresso_1.jpeg": {
+    "class": "n07920052",
+    "description": "espresso",
+    "index": 6
+  },
+  "koala_1.jpeg": {
+    "class": "n01882714",
+    "description": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+    "index": 5
+  },
+  "orange_1.jpeg": {
+    "class": "n07747607",
+    "description": "orange",
+    "index": 8
+  },
+  "panda_1.jpeg": {
+    "class": "n02509815",
+    "description": "lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",
+    "index": 7
+  },
+  "pepper_1.jpeg": {
+    "class": "n07720875",
+    "description": "bell pepper",
+    "index": 3
+  },
+  "pizza_1.jpeg": {
+    "class": "n07873807",
+    "description": "pizza, pizza pie",
+    "index": 2
+  }
+}
