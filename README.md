@@ -2,7 +2,9 @@
 - Added a folder `website_imgs` with some downloaded imgs from the site and their adversarial (black-box) versions 
 - Script `tiny-vgg/attack.py` loads/prepares images and uses the IBM adversarial toolbox to generate the adversarial example
 -   
-============================ Below: orig cnn-explainer README ==================================
+ Below: orig cnn-explainer README 
+ ---  
+   
 # CNN Explainer
 
 An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
